@@ -1,5 +1,8 @@
 package com.xeiam.xchange.examples.quoine.marketdata;
-
+/** 
+ * Modification of intial TickerDemo java program. Modifications allow for integration of bot into more bitcoin markets - 
+ * for access to more arbitrage opportunities
+*/
 import java.io.IOException;
 
 import com.xeiam.xchange.Exchange;
